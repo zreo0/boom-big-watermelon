@@ -13,4 +13,4 @@
 - [x] 点击不同位置可发射水果，可以有不同角度和速度
 
 ## 在线预览
-暂无
+[点我体验](https://buhuibabuhuiba.com/watermelon)
